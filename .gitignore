@@ -20,3 +20,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#管理平台依赖
+pzadmin/node_modules
